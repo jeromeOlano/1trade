@@ -77,6 +77,7 @@
  header .logo_nav{
     width: 80px !important;
     height: auto;
+    margin: 0 10% 0 0;
 }
 
 header.sticky{
@@ -92,7 +93,7 @@ header .brand{
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 2px;
-    margin-left: -30% ;
+    margin-right: -10%;
 }
   
   header .menu{
@@ -202,7 +203,6 @@ header .brand{
       left: 1%;
       margin: 30px;
     }
-  
     header .menu a{
       display: block;
       font-size: 20px;
