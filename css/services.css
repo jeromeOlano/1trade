@@ -873,8 +873,8 @@ footer{
 }
 
 .footer-distributed .footer-center i{
-	background-color:  #33383b;
-	color: #FFFF;
+	background-color:  #FFF44F;
+	color: #0F2763;
 	font-size: 25px;
 	width: 38px;
 	height: 38px;
@@ -896,13 +896,13 @@ footer{
 }
 .footer-distributed .footer-center p span{
 	display:block;
-  color: #fff;
+  color: #FFFF;
 	font-weight: normal;
 	font-size:14px;
 	line-height:2;
 }
 .footer-distributed .footer-center .tel a{
-	color: #fff;
+	color: #FFFF;
   text-decoration: none;
 }
 /* Footer Right */
@@ -935,11 +935,11 @@ footer{
 	width: 35px;
 	height: 35px;
 	cursor: pointer;
-	background-color:  #33383b;
+	background-color:  #FFF44F;
 	border-radius: 2px;
 
 	font-size: 20px;
-	color: #FFFF;
+	color: #0F2763;
 	text-align: center;
 	line-height: 35px;
 
@@ -962,12 +962,3 @@ footer{
 	}
 
 }
-
-
-
-
-
-
-
-
-
